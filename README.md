@@ -1,11 +1,12 @@
-**Zomato Exploratory Data Analysis (EDA) Project**
+<h1>Zomato Exploratory Data Analysis (EDA) Project</h1>
 This repository contains the exploratory data analysis (EDA) of a large Zomato restaurant dataset. The project aims to uncover insights about restaurant ratings, customer engagement, and pricing patterns across various locations.
 
-![download](https://github.com/user-attachments/assets/bfef7a34-3a2b-42c1-96cc-d8f21987570a)
+
+![zomato-infinity-dining-916x516-1](https://github.com/user-attachments/assets/da2ca345-46d6-4385-b53c-49e3c006b2a5)
 
 
 
-**Project Highlights:**
+<H2>Project Highlights:</H2>
 
 Data Analysis: Analyzed key metrics such as ratings, votes, and cost per plate to identify trends and correlations.
 Visualizations: Created various visualizations including bar charts, scatter plots, and heatmaps to represent data distributions and relationships.
@@ -21,7 +22,7 @@ Correlation Analysis: Performed a correlation analysis to explore the relationsh
 
 **How to Use:**
 Notebooks: The Jupyter notebooks in this repository contain the full code and analysis.
-Data Source: Due to GitHub's file size limitations, the dataset is not included in this repository. You can download the dataset from this link (provide a link to the dataset if hosted elsewhere).
+Data Source: Due to GitHub's file size limitations, the dataset is not included in this repository. You can download the dataset from this link ((https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization)).
 
 
 **Future Work:**
