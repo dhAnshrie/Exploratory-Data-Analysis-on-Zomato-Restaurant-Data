@@ -1,8 +1,12 @@
 **Zomato Exploratory Data Analysis (EDA) Project**
 This repository contains the exploratory data analysis (EDA) of a large Zomato restaurant dataset. The project aims to uncover insights about restaurant ratings, customer engagement, and pricing patterns across various locations.
-![Alt text]("C:\Users\Lenovo\Downloads\zomato pic.avif")
+
+![download](https://github.com/user-attachments/assets/bfef7a34-3a2b-42c1-96cc-d8f21987570a)
+
+
 
 **Project Highlights:**
+
 Data Analysis: Analyzed key metrics such as ratings, votes, and cost per plate to identify trends and correlations.
 Visualizations: Created various visualizations including bar charts, scatter plots, and heatmaps to represent data distributions and relationships.
 Insights: Derived actionable insights about factors influencing restaurant ratings and customer behavior.
