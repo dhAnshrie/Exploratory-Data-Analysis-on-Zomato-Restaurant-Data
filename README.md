@@ -14,17 +14,17 @@ Insights: Derived actionable insights about factors influencing restaurant ratin
 Recommendations: Provided data-driven recommendations for improving restaurant ratings and customer engagement on the Zomato platform.
 
 
-**Key Features:**
-Data Preprocessing: Cleaned and prepared the dataset for analysis, handling missing values and outliers.
-Interactive Visualizations: Used Seaborn and Matplotlib to create detailed visual representations of the data.
-Correlation Analysis: Performed a correlation analysis to explore the relationships between different numerical variables.
+<H2>Key Features:</H2>
+<h3>Data Preprocessing: </h3>Cleaned and prepared the dataset for analysis, handling missing values and outliers.
+<h3>Interactive Visualizations:</h3> Used Seaborn and Matplotlib to create detailed visual representations of the data.
+<h3>Correlation Analysis:</h3> Performed a correlation analysis to explore the relationships between different numerical variables.
 
 
-**How to Use:**
-Notebooks: The Jupyter notebooks in this repository contain the full code and analysis.
-Data Source: Due to GitHub's file size limitations, the dataset is not included in this repository. You can download the dataset from this link ((https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization)).
+<h2>How to Use:</h2>
+<h3>Notebooks:</h3> The Jupyter notebooks in this repository contain the full code and analysis.
+<h3>Data Source:</h3> Due to GitHub's file size limitations, the dataset is not included in this repository. You can download the dataset from this link ((https://www.kaggle.com/code/akshitmadan/zomato-data-set-analysis-visualization)).
 
 
-**Future Work:**
+<h2>Future Work:</h2>
 Expand the analysis to include additional factors like cuisine types and delivery times.
 Develop predictive models based on the insights gained from the EDA.
